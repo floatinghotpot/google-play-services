@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google ပလေး ဝန်ဆောင်မှုများ"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> သည် Google Play ဝန်ဆောင်မှုများပေါ်တွင် မူတည်နေပြီး၊ သင့် စက်ကိရိယာတွင် ပံ့ပိုးထားခြင်း မရှိပါ။ အကူအညီရရန်အတွက် ထုတ်လုပ်သူအား ဆက်သွယ်ပါ။"</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"မွမ်းမံရန်"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"လင်မှတ်ထိုး ဝင်"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Google ဖြင့် လက်မှတ်ထို ဝင်"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"ဖုန်းထဲ ဖွင့်ရန်"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> သည် လက်ရှိအချိန်တွင် မရှိသေးသော Google Play ဝန်ဆောင်မှုများအား လိုအပ်သည်။ အကူအညီရယူရန်အတွက် ဆော့ဖ်ဝဲရေးသူအား ကျေးဇူးပြု၍ ဆက်သွယ်ပါ။"</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"လက်မှတ်ထိုးဝင်ရောက်ခြင်း မအောင်မြင်ပါ"</string>

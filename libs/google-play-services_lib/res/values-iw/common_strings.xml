@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"‏שירותי Google Play"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"‏<xliff:g id="APP_NAME">%1$s</xliff:g> מתבסס על שירותי Google Play, שאינם נתמכים במכשיר שלך. צור קשר עם היצרן לקבלת סיוע."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"עדכן"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"היכנס"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"‏היכנס באמצעות Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"פתח בטלפון"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"‏ל-<xliff:g id="APP_NAME">%1$s</xliff:g> נדרש שירות אחד או יותר של Google Play שאינו זמין כעת. צור קשר עם המפתח לקבלת סיוע."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"הכניסה נכשלה"</string>

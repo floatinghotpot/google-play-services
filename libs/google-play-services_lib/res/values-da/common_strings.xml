@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play-tjenester"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> er afhængig af Google Play-tjenester, som ikke understøttes af din enhed. Kontakt producenten for at få hjælp."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Opdater"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Log ind"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Log ind med Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Åbn på telefonen"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> kræver en eller flere Google Play-tjenester, der ikke tilgængelige i øjeblikket. Kontakt udvikleren for at få hjælp."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Login mislykkedes"</string>

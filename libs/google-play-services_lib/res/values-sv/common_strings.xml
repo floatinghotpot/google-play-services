@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play-tjänster"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"För <xliff:g id="APP_NAME">%1$s</xliff:g> krävs Google Play-tjänster, och dessa stöds inte på enheten. Kontakta tillverkaren om du vill ha hjälp."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Uppdatera"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Logga in"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Logga in med Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Öppna på mobilen"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"För <xliff:g id="APP_NAME">%1$s</xliff:g> krävs en eller flera Google Play-tjänster som inte är tillgängliga för närvarande. Kontakta utvecklaren om du vill ha hjälp."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Det gick inte att logga in"</string>

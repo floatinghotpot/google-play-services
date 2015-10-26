@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play सेवाहरू"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> Google प्ले सेवाहरूमा निर्भर गर्दछ, जुन तपाईँको यन्त्रद्वारा समर्थन गर्दैन। सहायताको लागि निर्मातालाई सम्पर्क गर्नुहोस्।"</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"अद्यावधिक गर्नुहोस्"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"साइन इन गर्नुहोस्"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"गुगलका साथ साइन इन गर्नुहोस्"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"फोनमा खोल्नुहोस्"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> लाई एक वा थप Google प्ले सेवाहरू आवश्यकता पर्छ जुन हाल उपलब्ध छैन। कृपया सहायताको लागि विकासकर्तालाई सम्पर्क गर्नुहोस्।"</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"साइन इन असफल भयो"</string>

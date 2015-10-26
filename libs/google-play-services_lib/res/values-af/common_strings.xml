@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play-dienste"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> is afhanklik van Google Play Dienste, wat nie deur jou toestel gesteun word nie. Kontak die vervaardiger vir bystand."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Dateer op"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Meld aan"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Meld aan met Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Maak op foon oop"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> vereis een of meer Google Play Dienste wat tans nie beskikbaar is nie. Kontak asseblief die ontwikkelaar vir bystand."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Kon nie aanmeld nie"</string>

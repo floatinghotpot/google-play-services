@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"บริการ Google Play"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> ต้องใช้บริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน โปรดติดต่อผู้ผลิตเพื่อขอความช่วยเหลือ"</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"อัปเดต"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"ลงชื่อใช้"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"ลงชื่อเข้าใช้ด้วย Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"เปิดบนโทรศัพท์"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> ต้องใช้บริการ Google Play อย่างน้อย 1 บริการ ซึ่งไม่พร้อมใช้งานในปัจจุบัน โปรดติดต่อนักพัฒนาซอฟต์แวร์เพื่อขอความช่วยเหลือ"</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"การลงชื่อเข้าใช้ล้มเหลว"</string>
