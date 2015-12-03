@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play సేవలు"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> మీ పరికరంలో మద్దతు లేని Google Play సేవలపై ఆధారపడుతుంది. సహాయం కోసం తయారీదారుని సంప్రదించండి."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"నవీకరించు"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"సైన్ ఇన్ చేయి"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Googleతో సైన్ ఇన్ చేయి"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"ఫోన్‌లో తెరవండి"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g>కి ప్రస్తుతం అందుబాటులో లేని ఒకటి లేదా అంతకంటే ఎక్కువ Google Play సేవలు అవసరం. దయచేసి సహాయం కోసం డెవలపర్‌ను సంప్రదించండి."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"సైన్ ఇన్ విఫలమైంది"</string>

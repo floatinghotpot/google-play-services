@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Huduma za Google Play"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> hutegemea huduma za Google Play, ambazo hazitumiki kwenye kifaa chako. Wasiliana na mtengenezaji kwa usaidizi."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Sasisha"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Ingia"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Ingia ukitumia Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Fungua kwenye simu"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> inahitaji huduma moja au zaidi za Google Play ambazo hazipatikani kwa sasa. Tafadhali wasiliana na msanidi programu kwa usaidizi."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Imeshindwa kuingia katika akaunti"</string>

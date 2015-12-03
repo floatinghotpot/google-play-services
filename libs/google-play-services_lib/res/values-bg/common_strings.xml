@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Услуги за Google Play"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> разчита на услугите за Google Play, които не се поддържат от устройството ви. Свържете се с производителя за съдействие."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Актуализиране"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Вход"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Вход с Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Отваряне в телефона"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> изисква една или повече услуги за Google Play, които понастоящем не са налице. Моля, свържете се с програмиста за съдействие."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Влизането в профила не бе успешно"</string>

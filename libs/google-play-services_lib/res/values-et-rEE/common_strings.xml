@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play teenused"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"Rakendus <xliff:g id="APP_NAME">%1$s</xliff:g> toetub Google Play teenustele, mida teie seadmes ei toetata. Abi saamiseks võtke ühendust tootjaga."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Värskenda"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Logi sisse"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Logi sisse Google\'iga"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Ava telefonis"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"Rakenduse <xliff:g id="APP_NAME">%1$s</xliff:g> kasutamiseks on vaja ühte või mitut Google Play teenust, mis pole praegu saadaval. Võtke abi saamiseks ühendust arendajaga."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Sisselogimine ebaõnnestus"</string>

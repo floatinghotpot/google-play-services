@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play開発者サービス"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g>に必要なGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは端末メーカーにお問い合わせください。"</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"更新"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"ログイン"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Googleでログイン"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"端末で開く"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g>には現在利用されていないGoogle Play開発者サービスが必要です。詳しくはデベロッパーにお問い合わせください。"</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"ログインできませんでした"</string>

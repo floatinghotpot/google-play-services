@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play സേവനങ്ങൾ"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> ആശ്രയിക്കുന്ന Google Play സേവനങ്ങളെ നിങ്ങളുടെ ഉപകരണം പിന്തുണയ്‌ക്കുന്നില്ല. സഹായത്തിനായി നിർമ്മാതാവിനെ ബന്ധപ്പെടുക."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"അപ്‌ഡേറ്റുചെയ്യുക"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"സൈൻ ഇൻ ചെയ്യുക"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Google ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"ഫോണിൽ തുറക്കുക"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> എന്നതിന് നിലവിൽ ലഭ്യമല്ലാത്ത ഒന്നോ അതിൽക്കൂടുതലോ Google Play സേവനങ്ങൾ ആവശ്യമാണ്. സഹായത്തിന് ഡവലപ്പറെ ബന്ധപ്പെടുക."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"സൈൻ ഇൻ പരാജയപ്പെട്ടു"</string>

@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"‏خدمات Google Play"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"‏يعتمد <xliff:g id="APP_NAME">%1$s</xliff:g> على خدمات Google Play التي لا تتوافق مع جهازك. يمكنك الاتصال بالمصنِّع للحصول على مساعدة."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"تحديث"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"تسجيل الدخول"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"‏تسجيل الدخول باستخدام Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"فتح على الهاتف"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"‏يتطلب <xliff:g id="APP_NAME">%1$s</xliff:g> خدمة أو أكثر من خدمات Google Play غير المتاحة حاليًا. الرجاء الاتصال بمطوّر البرامج للحصول على المساعدة."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"أخفق تسجيل الدخول"</string>

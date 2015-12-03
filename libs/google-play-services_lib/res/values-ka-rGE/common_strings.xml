@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play სერვისები"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> ეყრდნობა Google Play სერვისებს, რომლებიც თქვენს მოწყობილობაზე მხარდაჭერილი არ არის. გთხოვთ, დაუკავშირდეთ მწარმოებელს დახმარებისათვის."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"განახლება"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"შესვლა"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Google-ით შესვლა"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"ტელეფონზე გახსნა"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> ითხოვს ერთ ან მეტ Google Play სერვისს, რომელიც ამჟამად არ არის ხელმისაწვდომი. გთხოვთ, დახმარებისთვის დაუკავშირდეთ დეველოპერს."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"შესვლის შეცდომა"</string>

@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google প্লে পরিষেবা"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> Google Play পরিষেবার উপর নির্ভরশীল, যা আমাদের ডিভাইসে সমর্থিত নয়। সহায়তার জন্য প্রস্তুতকারকের সাথে যোগাযোগ করুন।"</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"আপডেট করুন"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"সাইন ইন করুন"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Google এর মাধ্যমে সাইন ইন করুন"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"ফোনে খুলুন"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> এর একটি বা আরও বেশি Google Play পরিষেবার প্রয়োজন যা বর্তমানে উপলব্ধ নেই। অনুগ্রহ করে সহায়তার জন্য বিকাশকারীর সাথে যোগাযোগ করুন।"</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"সাইন ইন করতে ব্যর্থ হয়েছে"</string>

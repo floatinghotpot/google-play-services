@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play服务"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"要运行<xliff:g id="APP_NAME">%1$s</xliff:g>，必须先启用 Google Play 服务，但您的设备目前不支持该服务。请与制造商联系以寻求帮助。"</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"更新"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"登录"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"使用Google帐户登录"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"在手机上打开"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"运行<xliff:g id="APP_NAME">%1$s</xliff:g>所需的一项或多项 Google Play 服务目前无法使用。请与开发者联系以寻求帮助。"</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"登录失败"</string>

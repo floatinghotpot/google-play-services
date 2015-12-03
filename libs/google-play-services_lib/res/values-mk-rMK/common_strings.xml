@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Услуги на Google Play"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> се потпира на услуги на Google Play што вашиот уред не ги поддржува. Контактирајте со производителот за помош."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Ажурирај"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Најави се"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Најави се со Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Отвори на телефонот"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> бара една или повеќе услуги на Google Play што не се достапни во моментов. Контактирајте со програмерот за помош."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Пријавувањето не успеа"</string>

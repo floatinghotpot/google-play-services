@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play қызметтері"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> құрылғыңыз қолдау көрсетпейтін Google Play қызметтеріне негізделген. Көмек алу үшін өндірушіге хабарласыңыз."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Жаңарту"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Кіру"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Google арқылы кіру"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Телефонда ашу"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> үшін қазір істемей тұрған бір немесе бірнеше Google Play қызметі қажет. Көмек алу үшін әзірлеушіге хабарласыңыз."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Кіру сәтсіз аяқталды"</string>

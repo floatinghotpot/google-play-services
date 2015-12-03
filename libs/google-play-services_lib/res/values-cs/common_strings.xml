@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Služby Google Play"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"Aplikace <xliff:g id="APP_NAME">%1$s</xliff:g> vyžaduje služby Google Play, které ve vašem zařízení nejsou podporovány. Kontaktujte výrobce zařízení."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Aktualizovat"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Přihlásit se"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Přihlásit se účtem Google"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Otevřít v telefonu"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"Aplikace <xliff:g id="APP_NAME">%1$s</xliff:g> vyžaduje jednu nebo více služeb Google Play, které aktuálně nejsou k dispozici. S žádostí o pomoc se obraťte na vývojáře."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Přihlášení se nezdařilo"</string>

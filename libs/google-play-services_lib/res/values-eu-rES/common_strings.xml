@@ -27,8 +27,6 @@
     <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play zerbitzuak"</string>
     <string name="common_google_play_services_unsupported_text" msgid="7682982632307307938">"<xliff:g id="APP_NAME">%1$s</xliff:g> Google Play zerbitzuetan oinarrituta dago, baina zure gailuak ez ditu onartzen. Laguntza lortzeko, jarri fabrikatzailearekin harremanetan."</string>
     <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Eguneratu"</string>
-    <string name="common_signin_button_text" msgid="9071884888741449141">"Hasi saioa"</string>
-    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Hasi saioa Google-n"</string>
     <string name="common_open_on_phone" msgid="411506735369601515">"Ireki telefonoan"</string>
     <string name="common_google_play_services_api_unavailable_text" msgid="6534628256897874213">"<xliff:g id="APP_NAME">%1$s</xliff:g> erabiltzeko unean erabilgarri ez dagoen beste Google Play zerbitzu bat behar da. Laguntza lortzeko, jarri garatzailearekin harremanetan."</string>
     <string name="common_google_play_services_sign_in_failed_title" msgid="8164948898147532159">"Ezin izan da hasi saioa"</string>
